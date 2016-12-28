@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>Stopping Mech</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/custom.css" />
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/flickity.min.css" media="screen">
+    <script src="jquery.js">
+    </script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js">
+    </script>
+</head>
+
+<body>
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header" class="logoHead">
+
+            <div class="text">
+                <a href="index.html" id="noUnderline">
+                    ChemEcar
+                      </a>
+            </div>
+
+            <div class="inner">
+
+                <!-- Logo -->
+
+
+                <!-- Nav -->
+                <nav>
+                    <ul>
+                        <li><a href="#menu">Menu</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <h2>Menu</h2>
+            <ul>
+                <li><a href="generic.html">Stopping Mech</a></li>
+                <li><a href="generic.html">Powersource</a> </li>
+                <li><a href="generic.html">Mechanical Design</a> </li>
+                <li><a href="generic.html">Research & Development</a></li>
+                <li><a href="elements.html">Circuits and Programming</a></li>
+                <li><a href="elements.html">Blahh</a></li>
+            </ul>
+            <div class="chemLogo">
+
+            </div>
+        </nav>
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+
+                <div class="main-carousel">
+                    <div class="carousel-cell">
+                        <div class="gears">
+                        </div>
+                    </div>
+                    <div class="carousel-cell">
+                        <div class="gears">
+                        </div>
+                    </div>
+                    <div class="carousel-cell">
+                        <div class="gears">
+                        </div>
+                    </div>
+
+                </div>
+                <h1>Stopping Mechanism</h1>
+                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur
+                    id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque
+                    enim turpis, hendrerit tristique.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam
+                    venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque
+                    habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.</p>
+
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+
+
+            <div class="inner">
+
+            </div>
+            <section class="social" id="resize">
+                <h2>Contact</h2>
+
+                <ul class="icons">
+                    <li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+                    <li>
+                        <div class="icon style2 fa-envelope-o email"><span class="label">Email</span></div>
+                    </li>
+                </ul>
+            </section>
+            <div class="credits" :>
+                © University of Toronto<br> Website by Daniel Kim <br> Design by AJ
+            </div>
+    </div>
+    </footer>
+
+    </div>
+
+    <!-- Scripts -->
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js">
+    </script>
+    </script>
+    <script src="jquery1.js">
+    </script>
+    <script src="assets/js/flickity.pkgd.min.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+optimization
+
+1) fix redundancy classes
+
+2) optimize jquery selectors
+
+3) animate.css instead of css/jquery animate
+
+4) divide up jquery files to reference seperate ones
