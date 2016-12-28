@@ -1,6 +1,6 @@
-# Website built for school chemical car design team
+# ChemE Car
 
-Check out the live website [here](http://uoftchemecar.com/)
+Website built for school chemical car design team, check out the live website [here](http://uoftchemecar.com/)
 
 ## Run the app locally
 
