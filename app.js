@@ -37,24 +37,24 @@ app.listen(appEnv.port, '0.0.0.0', function() {
  */
 
 
-var http = require('http');
+// var http = require('http');
 
-// var router = express.Router();
-var SendGrid = require('sendgrid-nodejs').SendGrid;
-var sendgrid = new SendGrid('donghee214', '214hotmail');
+// // var router = express.Router();
+// var SendGrid = require('sendgrid-nodejs').SendGrid;
+// var sendgrid = new SendGrid('donghee214', '214hotmail');
 
-/* GET home page. */
-app.post('/api/send', urlencodedParser, function(req, res, next) {
-    // console.log(req.body);
-    sendgrid.send({
-        to: 'uoftchemecar@gmail.com',
-        from: req.body.email,
-        subject: req.body.name,
-        text: req.body.message
-    }, function(err, json) {
-        if (err) {
-            return res.send(err);
-        } else
-            res.send('WAHOOO');
-    });
-});
+// /* GET home page. */
+// app.post('/api/send', urlencodedParser, function(req, res, next) {
+//     // console.log(req.body);
+//     sendgrid.send({
+//         to: 'donghee214@gmail.com',
+//         from: req.body.email,
+//         subject: req.body.name,
+//         text: req.body.message
+//     }, function(err, json) {
+//         if (err) {
+//             return res.send(err);
+//         } else
+//             res.send('WAHOOO');
+//     });
+// });

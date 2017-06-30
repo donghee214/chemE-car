@@ -96,21 +96,21 @@ $(document).ready(function() {
     }
     getTimeRemaining(deadline).minutes;
 
-    function initializeClock(id, endtime) {
-        var clock = document.getElementById(id);
-        var timeinterval = setInterval(function() {
-            var t = getTimeRemaining(endtime);
-            clock.innerHTML = 'Regional Competition:' + t.days + ':' +
-                +t.hours + ':' +
-                +t.minutes + ':' +
-                +t.seconds;
-            if (t.total <= 0) {
-                clearInterval(timeinterval);
-            }
-        });
-    }
+    // function initializeClock(id, endtime) {
+    //     var clock = document.getElementById(id);
+    //     var timeinterval = setInterval(function() {
+    //         var t = getTimeRemaining(endtime);
+    //         clock.innerHTML = 'Regional Competition:' + t.days + ':' +
+    //             +t.hours + ':' +
+    //             +t.minutes + ':' +
+    //             +t.seconds;
+    //         if (t.total <= 0) {
+    //             clearInterval(timeinterval);
+    //         }
+    //     });
+    // }
 
-    initializeClock('title4', deadline);
+    // initializeClock('title4', deadline);
 
     $(".email").click(function() {
         $(".fixed").css("z-index", "10");

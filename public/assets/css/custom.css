@@ -404,14 +404,32 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
+.circuitsPic2 {
+    background-image: url('images/designPic5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+}
+.circuitsPic3 {
+    background-image: url('images/designPic6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+}
 .researchPic1 {
     background-image: url('images/researchPic1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 .researchPic2 {
@@ -420,6 +438,7 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 .designPic1 {
@@ -428,6 +447,7 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 .designPic2 {
@@ -436,7 +456,26 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
+.designPic3 {
+    background-image: url('images/designPic3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+}
+
+.designPic4 {
+    background-image: url('images/designPic4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+}
+
 
 .powerPic1 {
     background-image: url('images/powerPic1.jpg');
@@ -444,22 +483,32 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 .powerPic2 {
-    background-image: url('images/powerPic2.jpeg');
+    background-image: url('images/powerPic2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
-
+.powerPic3 {
+    background-image: url('images/powerPic3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    border-radius: 10px;
+    background-position: center;
+}
 .gears {
     background-image: url('images/gears3.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 .gears1 {
@@ -468,6 +517,7 @@ u {
     background-size: cover;
     height: 100%;
     border-radius: 10px;
+    background-position: center;
 }
 
 @media screen and ( max-width: 568px) {
