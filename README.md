@@ -1,6 +1,6 @@
-# Node.js Starter Overview
+# ChemE Car
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+Website built for school chemical car design team, check out the live website [here](http://uoftchemecar.com/)
 
 ## Run the app locally
 
